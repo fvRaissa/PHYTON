@@ -23,7 +23,7 @@ else:
   print ('O amanhã chegou')
 
 
-																		##EXERCICIOS 
+##EXERCICIOS 
 
 #1)Faça um programa que leia um número digitado pelo usuário e apresente o seu sucessor
 # e seu antecessor.
